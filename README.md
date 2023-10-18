@@ -4,7 +4,7 @@
 
 <h1 class="h1rr"> Me chamo Marcelo Santiago <h1>
 
-<style> .h1rr {color: white} </style>
+<style> .h1rr {color: white;} </style>
 
 <style> .tuc {color: white;} </style>
 
@@ -33,9 +33,8 @@ https://linktr.ee/pizzabeach
 <hr>
 </div>
 
-</style>
 
-<style> .trec {color: yellow</style>
+<style> .trec {color: yellow; }</style>
 
 <div class="trec">
 <h3>
@@ -49,11 +48,11 @@ https://linktr.ee/pizzabeach
 
 ### Entre em contato:
 
-<style> button {background-color:red; border: 2px; color: white}  
+<style> 
+button {background-color:red; border: 2px; color: white}  
 </style>
 
 <button> stskaos@gmail.com </button>
-
 
 <button> +55 (85) 99970-6540</button>
  
