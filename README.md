@@ -28,34 +28,36 @@ https://linktr.ee/pizzabeach
 
 - Focando em Front-end nas atuais ferramentas:
 <hr>
+
 </div>
 
 
 <style> .trec {color: yellow; }</style>
 
 <div class="trec">
+
 <h3>
 
 - HTML
 - CSS
 - JavaScript
-  
   </div>
-</div>
+
 
 ### Entre em contato:
 
 <style> 
-button {background-color:red; border: 2px; color: white}  
+button {background-color: red; border: 1px; color: white}  
 </style>
 
 <button> stskaos@gmail.com </button>
 
 <button> +55 (85) 99970-6540</button>
  
-<style> .tec {color: White; text: none;} </style>
+<style> .trec {color: yellow; text: none;} </style>
+
 <style> .h1rr
  {color: white;} </style>
 
 <style> .tuc {color: white;} 
-</style>
+</style>	
