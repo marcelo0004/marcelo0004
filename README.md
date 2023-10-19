@@ -7,10 +7,10 @@
 
 <div class="tuc">
 
-<h5 style="color: white; font-size: 18px">Vivendo atualmente em Fortaleza.  </h5>
-<h5 style="color: white; font-size: 18px">Empreendedor  </h5>
-<h5 style="color: white; font-size: 18px"> Fluente em Espanhol  </h5>
-<h5 style="color: white; font-size: 18px"> Socio-propietrario da: </h5>
+<h5 style="color: white; font-size: 18px;">Vivendo atualmente em Fortaleza.  </h5>
+<h5 style="color: white; font-size: 18px;">Empreendedor  </h5>
+<h5 style="color: white; font-size: 18px;"> Fluente em Espanhol  </h5>
+<h5 style="color: white; font-size: 18px;"> Socio-propietrario da: </h5>
 
 </div>
 
@@ -20,7 +20,7 @@ https://linktr.ee/pizzabeach
 # Futuro Desenvolvedor FullStack
 
 
-<div style="color: white; font-size: 16px">
+<div style="color: white; font-size: 16px;">
 
 ./ Atualmente cursando programação na Digital College
 
@@ -29,16 +29,17 @@ https://linktr.ee/pizzabeach
 </div>
 <div class="trec">
 
-<h3 style="color: yellow">
+<h3 style="color: yellow;">
 
 - HTML
 - CSS
 - JavaScript
   </h3>
   </div>
+
 ### Entre em contato:
 
 
-<button style="background-color:red; color: white">stskaos@gmail.com</button>
+<button style="background-color:red; color: white;"> stskaos@gmail.com </button>
 
-<button style="background-color:red; color: white">+55 (85) 99970-6540</button>
+<button style="background-color:red; color: white;"> +55 (85) 99970-6540</button>
