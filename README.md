@@ -2,7 +2,6 @@
 
 ![](smart-icon-png-21.jpg)
 
-
 <h1 class="h1rr"> Me chamo Marcelo Santiago <h1>
 
 
@@ -25,34 +24,21 @@ https://linktr.ee/pizzabeach
 
 ./ Atualmente cursando programação na Digital College
 
-
 ./ Focando em Front-end nas atuais ferramentas:
 <hr>
 </div>
-
 <div class="trec">
 
-<h3 style="color: yellow>
+<h3 style="color: yellow">
 
 - HTML
 - CSS
 - JavaScript
   </h3>
   </div>
-
-
 ### Entre em contato:
 
 
+<button style="background-color:red; color: white">stskaos@gmail.com</button>
 
-<button style="background-color:red; color: white"> stskaos@gmail.com </button>
-
-<button style="background-color:red; color: white"> +55 (85) 99970-6540</button>
- 
-
-
-<style> .h1rr
- {color: white;} </style>
-
-<style> .tuc {color: white;} 
-</style>	
+<button style="background-color:red; color: white">+55 (85) 99970-6540</button>
