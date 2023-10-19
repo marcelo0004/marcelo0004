@@ -8,10 +8,10 @@
 
 <div class="tuc">
 
-<h5>Vivendo atualmente em Fortaleza.
-<h5>Empreendedor e Ambicioso
-<h5> Fluente em Espanhol
-<h5> Socio-propietrario da: 
+<h5>Vivendo atualmente em Fortaleza.  </h5>
+<h5>Empreendedor  </h5>
+<h5> Fluente em Espanhol  </h5>
+<h5> Socio-propietrario da: </h5>
 
 </div>
 
@@ -41,20 +41,23 @@ https://linktr.ee/pizzabeach
 - HTML
 - CSS
 - JavaScript
+  </h3>
+  
   </div>
 
 
 ### Entre em contato:
 
 <style> 
-button {background-color: red; border: 1px; color: white}  
+button {background-color: red; border: 2px; color: white}  
 </style>
 
 <button> stskaos@gmail.com </button>
 
 <button> +55 (85) 99970-6540</button>
  
-<style> .trec {color: yellow; text: none;} </style>
+<style> .trec {color: yellow; text: none;} 
+</style>
 
 <style> .h1rr
  {color: white;} </style>
